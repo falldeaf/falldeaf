@@ -1,4 +1,5 @@
 ### 🛠 Tools and Technologies
+---
 ![](https://img.shields.io/badge/code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-C_Sharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -9,9 +10,15 @@
 ![](https://img.shields.io/badge/tools-Unity3D-informational?style=flat&logo=unity&logoColor=white&color=664dac)
 ![](https://img.shields.io/badge/tools-ThreeJS-informational?style=flat&logo=three.js&logoColor=white&color=664dac)
 ![](https://img.shields.io/badge/tools-Processing-informational?style=flat&logo=processingfoundation&logoColor=white&color=664dac)
+![](https://img.shields.io/badge/tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=664dac)
+![](https://img.shields.io/badge/tools-React-informational?style=flat&logo=react&logoColor=white&color=664dac)
+![](https://img.shields.io/badge/tools-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=664dac)
+![](https://img.shields.io/badge/tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=664dac)
+![](https://img.shields.io/badge/tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=664dac)
 
 
 ### 🌐 Sites
+---
 ![falldeaf.com](https://falldeaf.com) - My project log and homepage
 ![[1][1.2](https://twitter.com/falldeaf) - Promotion for my indie development
 ![reddit](https://reddit.com/user/falldeaf) - Promotion for many of my projects
