@@ -1,3 +1,7 @@
+![image](https://raw.githubusercontent.com/falldeaf/falldeaf/main/img/smalllogo.png)
+# FALLDEAF (Tom Mardis) AR/VR developer and Full-stack web dev.
+
+
 ### 🛠 Tools and Technologies
 ---
 ![](https://img.shields.io/badge/code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -19,9 +23,7 @@
 
 ### 🌐 Sites
 ---
-![falldeaf.com](https://falldeaf.com) - My project log and homepage
-![[1][1.2](https://twitter.com/falldeaf) - Promotion for my indie development
-![reddit](https://reddit.com/user/falldeaf) - Promotion for many of my projects
+You can find me on ![twitter](https://twitter.com/falldeaf), ![reddit](https://reddit.com/user/falldeaf) and ![linkedin](https://www.linkedin.com/in/tom-mardis-9aa088143/)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 <!--
