@@ -1,6 +1,10 @@
 ![image](https://raw.githubusercontent.com/falldeaf/falldeaf/main/img/github_banner.png)
 # AR/VR developer and Full-stack web dev.
 
+I'm a creative AR/VR developer with expertise in Unity3D. Full-stack web dev. Seasoned manager, team leader and all-around people person.  Obsessed with new challenges and driven to find solutions. Weekend maker. Developer of the upcoming point n’ click, adventure game [@DarkTidesGame](https://twitter.com/darktidesgame).
+
+> [@FallDeaf](https://twitter.com/falldeaf) is the coding / dev wizard on our team who made this happen. We love him.
+> — Emre Kelly [@EmreKelly](https://twitter.com/EmreKelly) [May 3, 2019](https://twitter.com/EmreKelly/status/1124201183797706752?ref_src=twsrc%5Etfw)
 
 ### 🛠 Tools and Technologies
 ---
@@ -23,9 +27,8 @@
 
 ### 🌐 Sites
 ---
-You can find me on ![twitter](https://twitter.com/falldeaf), ![reddit](https://reddit.com/user/falldeaf) and ![linkedin](https://www.linkedin.com/in/tom-mardis-9aa088143/)
+You can find me on [twitter](https://twitter.com/falldeaf), [reddit](https://reddit.com/user/falldeaf) and [linkedin](https://www.linkedin.com/in/tom-mardis-9aa088143/)
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 <!--
 **falldeaf/falldeaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
