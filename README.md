@@ -1,5 +1,5 @@
-![image](https://raw.githubusercontent.com/falldeaf/falldeaf/main/img/smalllogo.png)
-# FALLDEAF (Tom Mardis) AR/VR developer and Full-stack web dev.
+![image](https://raw.githubusercontent.com/falldeaf/falldeaf/main/img/github_banner.png)
+# AR/VR developer and Full-stack web dev.
 
 
 ### 🛠 Tools and Technologies
