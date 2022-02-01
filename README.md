@@ -1,4 +1,3 @@
-![image](https://raw.githubusercontent.com/falldeaf/falldeaf/main/img/github_banner.png)
 [![banner](https://raw.githubusercontent.com/falldeaf/falldeaf/main/img/github_banner.png)](https://falldeaf.com/)
 # AR/VR developer and Full-stack web dev.
 
