@@ -1,4 +1,4 @@
-[![banner](https://raw.githubusercontent.com/falldeaf/falldeaf/main/img/github_banner.png)](https://falldeaf.com/)
+[![banner](https://raw.githubusercontent.com/falldeaf/falldeaf/main/img/banner.png)](https://falldeaf.com/)
 # AR/VR developer and Full-stack web dev.
 
 I'm a creative AR/VR developer with expertise in Unity3D. Full-stack web dev. Seasoned manager, team leader and all-around people person.  Obsessed with new challenges and driven to find solutions. Weekend maker. Developer on the upcoming point n’ click, adventure game [@DarkTidesGame](https://twitter.com/darktidesgame).
